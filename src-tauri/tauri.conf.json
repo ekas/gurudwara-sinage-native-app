@@ -14,8 +14,9 @@
       {
         "title": "gurudwara-sinage-native-app",
         "width": 800,
-        "height": 600
-        
+        "height": 600,
+        "fullscreen": false,
+        "alwaysOnTop": false
       }
     ],
     "security": {
